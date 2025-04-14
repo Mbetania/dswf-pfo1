@@ -1,4 +1,4 @@
-# Trabajo Práctico - HTML/CSS
+# Trabajo Práctico
 
 Este proyecto es un portafolio personal desarrollado como trabajo práctico para la materia de desarrollo front-end.
 
